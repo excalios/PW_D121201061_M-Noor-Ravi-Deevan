@@ -1,0 +1,6 @@
+[submodule "FrontEndTugasAkhir"]
+	path = FrontEndTugasAkhir
+	url = https://github.com/meeyow02/FrontEndTugasAkhir
+[submodule "Tugas-Akhir-Web-Kelompok-1"]
+	path = Tugas-Akhir-Web-Kelompok-1
+	url = https://github.com/excalios/Tugas-Akhir-Web-Kelompok-1
